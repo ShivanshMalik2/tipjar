@@ -1,0 +1,13 @@
+A simple scenario for a XSS (Cross-Site Scripting) Attack
+1. You are on a messaging site, You are communicating with strangers in a chat group.
+2. Suddenly, An unknown user sends a link which alias says "Click here and get free iPhone"
+3. Now who dosen't wants an iPhone? You click on it and there, The attacker gets access to your data
+
+What happens in before and background:
+⚫ Attacker creates a malicious script, This can be keyloggers etc.
+⚫ Attacker sends the script as a message in the chat group
+⚫ You clicked on the link, And then the scripts starts their payloads in backgrounds and the hacker gets access to your data, Many malicious things can take the place
+
+Thank you,
+Hope you find my report helpful
+Shivansh Malik, Researcher at Bugcrowd
